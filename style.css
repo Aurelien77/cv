@@ -1,0 +1,16 @@
+body
+
+{
+
+    background-image: url("neige.png") ;
+   
+    background-color: aquamarine;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: 0.5em;
+}
+
+h1 
+{
+background-color : blue ;  
+}
